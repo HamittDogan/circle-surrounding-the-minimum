@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605112581 source:c:\users\hamit\desktop\proje\proje\main.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+
